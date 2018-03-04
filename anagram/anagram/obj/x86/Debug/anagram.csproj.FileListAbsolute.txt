@@ -1,0 +1,15 @@
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\bin\x86\Debug\anagram.exe.config
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.csproj.ResolveComReference.cache
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\bin\x86\Debug\anagram.exe
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\bin\x86\Debug\anagram.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.Form1.resources
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.Properties.Resources.resources
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.csproj.GenerateResource.Cache
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.exe
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.csprojResolveAssemblyReference.cache
+C:\Users\maryam\documents\visual studio 2015\Projects\anagram\anagram\obj\x86\Debug\anagram.Form2.resources
+C:\Users\maryam\Documents\GitHub\anagram\anagram\anagram\bin\x86\Debug\anagram.exe.config
+C:\Users\maryam\Documents\GitHub\anagram\anagram\anagram\obj\x86\Debug\anagram.csproj.ResolveComReference.cache
+C:\Users\maryam\Documents\GitHub\anagram\anagram\anagram\obj\x86\Debug\anagram.exe
+C:\Users\maryam\Documents\GitHub\anagram\anagram\anagram\obj\x86\Debug\anagram.pdb
